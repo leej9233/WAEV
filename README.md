@@ -2,7 +2,7 @@
 
 - Dataset from https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data
 - Kaggle link: https://www.kaggle.com/datasets/usamabuttar/electric-vehicle-population-data-washington-us
--Encoding Methods: https://medium.com/@jkkn.iitkgp/categorical-data-encoding-techniques-d6296697a40f
+- Encoding Methods: https://medium.com/@jkkn.iitkgp/categorical-data-encoding-techniques-d6296697a40f
 
 # WAEV
 
